@@ -1,0 +1,19 @@
+{
+  "name": "death-star",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majdnaji/death-star.git"
+  },
+  "author": "majd naji,mhd al rahabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majdnaji/death-star/issues"
+  },
+  "homepage": "https://github.com/majdnaji/death-star#readme"
+}
